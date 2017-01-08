@@ -17,17 +17,17 @@ baseurl: ""
 title: DAVID J FARNHAM
 
 # Short description of your site
-description: uNDER CONSTRUCTION
+description: UNDER CONSTRUCTION
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Research: "research"
+  CV: "cv"
+  Blog: "blog"
+  Fun: "fun"
   Author's home: "http://davidjfarnham.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
