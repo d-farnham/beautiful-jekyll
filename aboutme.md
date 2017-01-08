@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
+A few things about me:
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a PhD student 
+- I am interested in water managemtn, climate, weather, urban water quality, and citizen science
+- I play basketball regularly
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Born in Ithaca New York
+- Have lived in Ithaca, Buffalo, and New York, NY, and Jeonju, South Korea
