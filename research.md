@@ -4,4 +4,4 @@ title: Research
 subtitle:
 ---
 ### my projects and citations
-- Please visit my researchgate profile for this information
+- Please visit my [Researchgate] (https://www.researchgate.net/profile/David_Farnham) profile for this information
