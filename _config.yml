@@ -25,7 +25,8 @@ description: David Farnham's academic/professional website
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  CV: "cv"
+  CV:    
+     - My CV: "https://github.com/d-farnham/fullcv/CV_Farnham_main.pdf"
   Blog: "blog"
   Fun: "fun"
 #  Author's home: "http://davidjfarnham.com"
