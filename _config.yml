@@ -28,7 +28,7 @@ navbar-links:
   Research: "research"
   CV:    
      - My CV: "https://github.com/d-farnham/fullcv-master/raw/master/CV_Farnham_main.pdf"
-  Fun blog: "funblog"
+#  Fun blog: "funblog"
 #  Photos: "photos"
 #  Author's home: "http://davidjfarnham.com"
 
